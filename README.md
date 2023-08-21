@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/mdmk4os?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FSao_Paulo)
-
+<!-- ![Metrics](https://metrics.lecoq.io/mdmk4os?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FSao_Paulo)
+-->
+<img src="https://myreadme.vercel.app/api/embed/mdmk4os?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
