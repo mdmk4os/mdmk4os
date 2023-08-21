@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**mdmk4os/mdmk4os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Metrics](https://metrics.lecoq.io/mdmk4os?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FSao_Paulo)
 
 Here are some ideas to get you started:
 
