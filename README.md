@@ -4,7 +4,7 @@ I'm an aspiring hacker and I'm 100 percent focused on my personal evolution in t
 > Working on [my dotfiles](https://github.com/mdmk4os/dotfiles)
 
 > Learning
-- [ ] HTML & CSS  
+> - [ ] HTML & CSS  
 
 ### All My Stats
 <img src="https://myreadme.vercel.app/api/embed/mdmk4os?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme,darkmode" />
